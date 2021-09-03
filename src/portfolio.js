@@ -114,8 +114,12 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using React",
+<<<<<<< HEAD
         "⚡ Developing mobile applications using Figma , Adobe XD , Adobe Illustrater, React Native",
         "⚡ Creating application backend in Node, Express",
+=======
+        "⚡ Creating application backend in Node, Express & Flask",
+>>>>>>> 802abf75905d7a50adbbdd327af85bb920949bad
       ],
       softwareSkills: [
         {
@@ -188,9 +192,14 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
+<<<<<<< HEAD
         "⚡ Basic working in cloud platform",
         "⚡ Posting and maintaining websites on virtual machine instences along with integration of databases",
         
+=======
+        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Deploying deep learning models on cloud to use on mobile devices",
+>>>>>>> 802abf75905d7a50adbbdd327af85bb920949bad
       ],
       softwareSkills: [
         {
